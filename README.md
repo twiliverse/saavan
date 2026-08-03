@@ -1,4 +1,4 @@
-content = """<div align="center">
+ """<div align="center">
   <h1>🌸✨ The Magic of Saavan ✨🌸</h1>
   <h3><i>Celebrating the eternal love of Lord Shiva & Goddess Parvati 🔱💖</i></h3>
 </div>
