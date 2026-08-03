@@ -29,8 +29,3 @@ Here are some beautiful ways people celebrate this magical month:
   <b>Har Har Mahadev! 🔱 | Jai Mata Di! 🌺</b>
 </div>
 """
-
-with open("/mnt/data/Saavan_ShivParvati_README.md", "w", encoding="utf-8") as f:
-    f.write(content)
-
-print("Created Saavan_ShivParvati_README.md")
